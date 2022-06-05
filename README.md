@@ -4,7 +4,7 @@ This project to visualize the traceroute with maps
 ## Installation
 
 ```
-python -m pip freeze -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ## Run
